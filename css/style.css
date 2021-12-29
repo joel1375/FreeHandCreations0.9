@@ -1,0 +1,85 @@
+/* Sections */
+.headerView {
+  background-color: #8CA1A5;
+}
+
+.headerView1 {
+  padding: 170px 0 0 0;
+}
+
+.topView {
+   background-image: linear-gradient(#8CA1A5,white, #FFADAD);
+}
+
+.topView1 {
+  padding: 80px 15% 0;
+}
+
+.topView2 {
+  padding-top: 30px;
+}
+
+.secondView {
+  background-image: linear-gradient(#FFADAD, white);
+  padding: 20px 15% 0;
+}
+
+
+.btn-lg {
+  width: 30%;
+  height: 70px;
+}
+
+
+
+/* Images */
+.logo1 {
+  width: 20%;
+}
+
+.logo2 {
+  width: 37%;
+  padding-top: 10px;
+}
+
+.backgroundAllImage {
+  margin-top: 50px;
+  width: 100%;
+}
+
+
+/* Alignment */
+
+.textCenter {
+  text-align: center;
+}
+
+.textRight {
+  text-align: right;
+}
+
+.textLeft {
+  text-align: left;
+}
+
+
+/* Text Font Sizes */
+i {
+  padding: 20px 0;
+}
+h2 {
+  font-weight: bolder;
+  font-size: 3rem;
+  padding: 20px 0;
+}
+
+h3 {
+  font-size: 2rem;
+  padding: 20px 0;
+}
+p {
+  font-family: "PT Sans";
+  font-size: 2rem;
+  text-align: center;
+  line-height: 2;
+}
